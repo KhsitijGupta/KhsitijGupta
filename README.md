@@ -141,26 +141,26 @@
 
 ### 🔗 Connect with me
 
-<p align="left">
+<p  style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 18px; border-radius: 50px; border: 1px solid rgba(59, 130, 246, 0.4); color: #bfdbfe; text-decoration: none; background: linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(56, 189, 248, 0.1)); font-weight: 500;">
   <a href="https://linkedin.com/in/kshitij-gupta-648319259" target="_blank" rel="noopener">
     <img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="LinkedIn"
-         height="32" width="42" />
+         height="52" width="52" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/kshitij2162" target="_blank" rel="noopener">
     <img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
          alt="LeetCode"
-         height="32" width="42" />
+         height="52" width="52" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/kshitij2162" target="_blank" rel="noopener">
     <img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
          alt="Twitter"
-         height="32" width="42" />
+         height="52" width="52" />
   </a>
 </p>
 
