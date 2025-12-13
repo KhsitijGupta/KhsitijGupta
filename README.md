@@ -190,9 +190,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48" />
   </a>
@@ -209,9 +207,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48" />
   </a>
-</p>
 
-<p align="center">
   <a href="https://firebase.google.com/" target="_blank" rel="noopener">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="48" height="48" />
   </a>
