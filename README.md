@@ -17,6 +17,7 @@
 <br/>
 
 ---
+
 <!-- ===== Hero: GIF + About (Glassmorphism) ===== -->
 <div style="
   display: flex;
@@ -54,10 +55,6 @@
     border-radius: 24px;
     border: 1px solid rgba(148, 163, 184, 0.2);
     background: linear-gradient(135deg, rgba(15, 23, 42, 0.95), rgba(2, 6, 23, 0.85));
-    backdrop-filter: blur(20px);
-    box-shadow: 
-      0 25px 50px rgba(15, 23, 42, 0.6),
-      0 0 0 1px rgba(148, 163, 184, 0.15);
     color: #e5e7eb;
     position: relative;
   ">
@@ -85,7 +82,6 @@
       font-weight: 500;
       letter-spacing: 0.5px;
       text-transform: uppercase;
-      box-shadow: 0 4px 12px rgba(251, 146, 60, 0.15);
     ">
       <span>Software Engineer</span>
       <span style="width: 6px; height: 6px; border-radius: 50%; background: #fb923c;"></span>
@@ -157,6 +153,8 @@
       ">
         ⚡ Always building something new
       </span>
+
+      <!-- Pure HTML mail link (no markdown inside) -->
       <a href="mailto:kshitijgupta2162@gmail.com" style="
         display: inline-flex;
         align-items: center;
@@ -168,11 +166,6 @@
         text-decoration: none;
         background: linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(56, 189, 248, 0.1));
         font-weight: 500;
-        transition: all 0.2s ease;
-        &:hover {
-          background: linear-gradient(135deg, rgba(59, 130, 246, 0.25), rgba(56, 189, 248, 0.2));
-          border-color: rgba(59, 130, 246, 0.6);
-        }
       ">
         📫 kshitijgupta2162@gmail.com
       </a>
