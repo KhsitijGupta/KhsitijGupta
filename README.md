@@ -1,6 +1,6 @@
 <!-- ===== Top Banner (Portfolio style) ===== -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1526498460520-4c246339dccb?auto=format&fit=crop&w=1400&q=80"
+  <img src="https://raw.githubusercontent.com/KhsitijGupta/KhsitijGupta/refs/heads/main/banner.jpeg"
        alt="Tech banner"
        width="100%" />
 </p>
