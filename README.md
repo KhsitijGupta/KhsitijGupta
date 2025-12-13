@@ -1,6 +1,6 @@
 <!-- ===== Top Banner (Portfolio style) ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KhsitijGupta/KhsitijGupta/refs/heads/main/asset/banner.png"
+  <img src="https://raw.githubusercontent.com/KhsitijGupta/KhsitijGupta/refs/heads/main/banner.png"
        alt="Tech banner"
        width="100%" />
 </p>
@@ -18,14 +18,14 @@
 
 ---
 
-<!-- ===== Side Video & About Section ===== -->
+<!-- ===== Side GIF & About Section ===== -->
 <div style="display:flex; justify-content:center; gap:20px; align-items:flex-start; max-width:1200px; margin:0 auto; padding:0 20px;">
-  <!-- Side Video -->
+  <!-- Side GIF -->
   <div style="flex:0 0 340px;">
-    <video width="340" height="auto" controls autoplay muted loop poster="https://raw.githubusercontent.com/KhsitijGupta/KhsitijGupta/refs/heads/main/banner.png">
-      <source src="https://github.com/KhsitijGupta/KhsitijGupta/raw/main/asset/video%20(2).mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+    <img src="https://raw.githubusercontent.com/KhsitijGupta/KhsitijGupta/refs/heads/main/asset/video2-ezgif.com-video-to-gif-converter.gif"
+         alt="Coding animation"
+         width="340" 
+         height="auto" />
   </div>
 
   <!-- About Section -->
