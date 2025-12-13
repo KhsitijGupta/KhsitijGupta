@@ -35,8 +35,7 @@
 </div>
 
 ---
-
-<!-- ===== Hero: GIF + About (Glassmorphism) ===== -->
+<!-- ===== Hero: GIF (left) + Content (right) ===== -->
 <div style="
   display: flex;
   flex-wrap: wrap;
@@ -47,7 +46,8 @@
   margin: 0 auto;
   padding: 24px 18px;
 ">
-  <!-- Left: GIF card -->
+
+  <!-- LEFT: GIF card -->
   <div style="
     flex: 0 0 320px;
     display: flex;
@@ -65,7 +65,7 @@
     />
   </div>
 
-  <!-- Right: Glassmorphism about card -->
+  <!-- RIGHT: Glassmorphism content card -->
   <div style="
     flex: 1 1 340px;
     max-width: 620px;
@@ -76,7 +76,7 @@
     color: #e5e7eb;
     position: relative;
   ">
-    <!-- Decorative gradient overlay -->
+    <!-- Top gradient line -->
     <div style="
       position: absolute;
       top: 0;
@@ -85,57 +85,85 @@
       height: 2px;
       background: linear-gradient(90deg, transparent, #fb923c, transparent);
     "></div>
-    <!-- Pill badge -->
-<div style="display: inline-flex; align-items: center; gap: 8px; padding: 8px 16px; border-radius: 50px; border: 1px solid rgba(251, 146, 60, 0.3); background: linear-gradient(135deg,rgba(251, 146, 60, 0.15), rgba(248, 113, 113, 0.08)); color: #fed7aa; font-size: 12px; font-weight: 500; letter-spacing: 0.5px; text-transform: uppercase;">
-  <span>Software Engineer</span>
-  <span style="width: 6px; height: 6px; border-radius: 50%; background: #fb923c;"></span>
-</div>
+<!-- ================= HERO SECTION (GitHub SAFE) ================= -->
+<table align="center" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- LEFT: GIF -->
+    <td width="340" align="center" valign="top" style="padding: 16px;">
+      <img
+        src="https://raw.githubusercontent.com/KhsitijGupta/KhsitijGupta/refs/heads/main/asset/video2-ezgif.com-video-to-gif-converter.gif"
+        alt="Coding animation"
+        width="320"
+        style="border-radius: 16px;"
+      />
+    </td>
 
-<!-- Heading -->
-<h3 style="margin: 24px 0 12px 0; font-size: 28px; font-weight: 700; color: #f9fafb; line-height: 1.3;">
-  Turning ideas into fast, reliable web experiences.
-</h3>
+    <!-- RIGHT: CONTENT -->
+<td align="left" valign="top" style="padding:16px;">
 
-<p style="margin: 0 0 24px 0; font-size: 15px; color: #d1d5db; line-height: 1.7; font-weight: 400;">
-  MERN stack developer passionate about crafting clean UIs, predictable APIs, and smooth user journeys from the first pixel to the last database write.
-</p>
+  <!-- Pill Badge -->
+  <p>
+    <span style="
+      display:inline-block;
+      padding:6px 12px;
+      border:1px solid #fb923c;
+      border-radius:20px;
+      color:#fb923c;
+      font-size:12px;
+      font-weight:bold;
+    ">
+      SOFTWARE ENGINEER
+    </span>
+  </p>
 
-<!-- Skills grid -->
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px 20px; font-size: 14px; margin-bottom: 24px;">
-  <div style="margin: 0; display: flex; align-items: flex-start; gap: 8px;">
-    <span style="font-size: 16px; line-height: 1.2;">🚀</span>
-    <span style="font-weight: 500; color: #e5e7eb;">MERN stack, clean UI & responsive design</span>
-  </div>
-  <div style="margin: 0; display: flex; align-items: flex-start; gap: 8px;">
-    <span style="font-size: 16px; line-height: 1.2;">🛠️</span>
-    <span style="font-weight: 500; color: #e5e7eb;">Full-stack projects & dashboards</span>
-  </div>
-  <div style="margin: 0; display: flex; align-items: flex-start; gap: 8px;">
-    <span style="font-size: 16px; line-height: 1.2;">📚</span>
-    <span style="font-weight: 500; color: #e5e7eb;">Performance optimization & DX tooling</span>
-  </div>
-  <div style="margin: 0; display: flex; align-items: flex-start; gap: 8px;">
-    <span style="font-size: 16px; line-height: 1.2;">💬</span>
-    <span style="font-weight: 500; color: #e5e7eb;">React, Node.js, MongoDB expert</span>
-  </div>
-</div>
+  <!-- Heading -->
+  <h2>
+    Turning ideas into fast, reliable web experiences
+  </h2>
 
-<!-- Status & Contact -->
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin-top: 8px; font-size: 13px;">
-  <span style="padding: 8px 16px; border-radius: 50px; background: rgba(34, 197, 94, 0.15); border: 1px solid rgba(34, 197, 94, 0.3); color: #bbf7d0; font-weight: 500;">
-    ⚡ Always building something new
-  </span>
+  <!-- Description -->
+  <p>
+    MERN stack developer focused on building clean user interfaces,
+    scalable backends, and smooth end-to-end web applications using
+    React, Node.js, Express, and MongoDB.
+  </p>
 
-  <a href="mailto:kshitijgupta2162@gmail.com" 
-     style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 18px; border-radius: 50px; border: 1px solid rgba(59, 130, 246, 0.4); color: #bfdbfe; text-decoration: none; background: linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(56, 189, 248, 0.1)); font-weight: 500;">
-    📫 kshitijgupta2162@gmail.com
-  </a>
-</div>
+  <!-- Bullet points -->
+  <ul>
+    <li>🚀 MERN stack & responsive UI development</li>
+    <li>🛠️ Full-stack dashboards & real-world projects</li>
+    <li>📚 Performance optimization & clean architecture</li>
+    <li>💬 React, Node.js, MongoDB</li>
+  </ul>
 
-  </div>
-</div>
+  <!-- Status -->
+  <p>
+    <span style="
+      display:inline-block;
+      padding:6px 12px;
+      border:1px solid #22c55e;
+      border-radius:20px;
+      color:#22c55e;
+      font-size:12px;
+      font-weight:bold;
+    ">
+      ⚡ Always building something new
+    </span>
+  </p>
 
-<br/>
+  <!-- Contact -->
+  <p>
+    📫 <a href="mailto:kshitijgupta2162@gmail.com">
+      kshitijgupta2162@gmail.com
+    </a>
+  </p>
+
+</td>
+
+  </tr>
+</table>
+<!-- ================= END HERO SECTION ================= -->
+
 
 ---
 
