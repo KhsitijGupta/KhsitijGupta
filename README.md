@@ -1,27 +1,37 @@
+<!-- ===== Hero / Banner ===== -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1400&q=80" 
+       alt="Developer workspace banner" 
+       width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Kshitij Gupta</h1>
 <h3 align="center">
-  Building personal projects, tools, and experiments across the MERN stack, JavaScript, React, and Node.js.
+  Building personal projects, tools, and experiments across the MERN stack, JavaScript, React, and Node.js.<br/>
   From full‑stack apps to tiny utility scripts — always shipping and always learning.
 </h3>
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KhsitijGupta&label=Profile%20views&color=0e75b6&style=flat" alt="KhsitijGupta" />
-</p>
-
-<p align="left">
+<!-- ===== Badges / Stats Row ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KhsitijGupta&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  &nbsp;&nbsp;
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KhsitijGupta&theme=algolia&margin-w=10&margin-h=10" alt="kshitijgupta trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=KhsitijGupta&theme=algolia&no-frame=true&row=1&column=6" alt="trophies" />
   </a>
 </p>
 
-<img align="right" alt="coding" width="360" src="https://camo.githubusercontent.com/0e2953d98b21eda5a158939ea202c7c07b16b0dc0dc5c1e269826c29a01a974f/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966">
+<!-- ===== About Me (with side image) ===== -->
+<p align="right">
+  <img alt="Coding illustration" width="360" 
+       src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80">
+</p>
 
 - 🌱 Currently exploring **MERN stack & modern frontend**
-- 💻 Love building **full‑stack apps & experimental UIs**
+- 💻 Love building **full‑stack web apps & experimental UIs**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **kshitijgupta2162@gmail.com**
 - ⚡ Fun fact: **I get restless if there’s nothing new to build.**
 
 ---
@@ -29,16 +39,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kshitij-gupta-648319259" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij-gupta-648319259" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - kshitij-gupta-648319259" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/kshitij2162" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kshitij2162" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - kshitij2162" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages & Tools:</h3>
+<h3 align="left">Languages &amp; Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -98,6 +108,7 @@
 
 ---
 
+<!-- ===== GitHub Streak ===== -->
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhsitijGupta&theme=dark" alt="kshitijgupta streak stats" />
