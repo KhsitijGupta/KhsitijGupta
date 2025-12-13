@@ -18,43 +18,37 @@
 
 ---
 
-<br/>
+<!-- ===== Side Video & About Section ===== -->
+<div style="display:flex; justify-content:center; gap:20px; align-items:flex-start; max-width:1200px; margin:0 auto; padding:0 20px;">
+  <!-- Side Video -->
+  <div style="flex:0 0 340px;">
+    <video width="340" height="auto" controls autoplay muted loop poster="https://raw.githubusercontent.com/KhsitijGupta/KhsitijGupta/refs/heads/main/banner.png">
+      <source src="https://github.com/KhsitijGupta/KhsitijGupta/raw/main/asset/video%20(2).mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
 
-
-<br/>
-
----
-
-<br/>
-<div style="display:flex; justify-content:center; gap:10px;">
-<!-- ===== About (inspired by portfolio hero) ===== -->
-<p align="right">
-  <img alt="Coding illustration" width="340"
-       src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=800&q=80">
-</p>
-
-<p>
-  <span style="display:inline-block;padding:6px 14px;border-radius:999px;border:1px solid #fb923c33;background:#fb923c1a;color:#fb923c;font-size:11px;letter-spacing:0.18em;text-transform:uppercase;">
-    Hello! &nbsp;•&nbsp; Software Engineer in the making
-  </span>
-</p>
+  <!-- About Section -->
+  <div style="flex:1; max-width:600px;">
+    <span style="display:inline-block;padding:6px 14px;border-radius:999px;border:1px solid #fb923c33;background:#fb923c1a;color:#fb923c;font-size:11px;letter-spacing:0.18em;text-transform:uppercase;">
+      Hello! &nbsp;•&nbsp; Software Engineer in the making
+    </span>
+    <br/><br/>
+    
+    <ul style="padding-left:20px;">
+      <li>🚀 Focused on <b>MERN stack</b>, clean UI and responsive experiences.</li>
+      <li>🛠️ Enjoy turning ideas into <b>full‑stack projects</b> and experimental UIs.</li>
+      <li>📚 Always learning better patterns, performance tricks, and tooling.</li>
+      <li>💬 Ask me about <b>JavaScript, React, Node.js, MongoDB</b>.</li>
+      <li>📫 Reach me at <b>kshitijgupta2162@gmail.com</b>.</li>
+      <li>⚡ Fun fact: <b>I get restless if there's nothing new to build.</b></li>
+    </ul>
+  </div>
 </div>
-<br/>
-
-<ul>
-  <li>🚀 Focused on <b>MERN stack</b>, clean UI and responsive experiences.</li>
-  <li>🛠️ Enjoy turning ideas into <b>full‑stack projects</b> and experimental UIs.</li>
-  <li>📚 Always learning better patterns, performance tricks, and tooling.</li>
-  <li>💬 Ask me about <b>JavaScript, React, Node.js, MongoDB</b>.</li>
-  <li>📫 Reach me at <b>kshitijgupta2162@gmail.com</b>.</li>
-  <li>⚡ Fun fact: <b>I get restless if there’s nothing new to build.</b></li>
-</ul>
 
 <br/>
 
 ---
-
-<br/>
 
 ### Connect with me
 
@@ -78,9 +72,7 @@
 
 ---
 
-<br/>
-
-### Languages &amp; Tools
+### Languages & Tools
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank">
@@ -143,8 +135,6 @@
 
 ---
 
-<br/>
-
 ### GitHub Streak
 
 <p align="center">
@@ -152,5 +142,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhsitijGupta&theme=dark" alt="kshitijgupta streak stats" />
   </a>
 </p>
-
-<br/>
