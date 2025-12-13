@@ -6,15 +6,33 @@
 </p>
 
 <br/>
+<div align="center">
+  <p style="
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 999px;
+    border: 1px solid rgba(59,130,246,0.5);
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #60a5fa;
+    margin: 0 0 8px 0;
+  ">
+    MERN Stack Developer
+  </p>
 
-<h1 align="center">Hi 👋, I'm Kshitij Gupta</h1>
+  <h1 style="margin: 4px 0 6px 0; font-size: 28px;">
+    Hi 👋, I'm <span style="color:#60a5fa;">Kshitij Gupta</span>
+  </h1>
 
-<h3 align="center">
-  MERN Stack Developer from Bhopal, building scalable web applications<br/>
-  and constantly experimenting with modern JavaScript, React, and Node.js.
-</h3>
-
-<br/>
+  <p style="
+    margin: 0;
+    font-size: 14px;
+    color: #9ca3af;
+  ">
+    Building fast, scalable web apps with <b>React</b>, <b>Node.js</b>, and modern JavaScript.
+  </p>
+</div>
 
 ---
 
