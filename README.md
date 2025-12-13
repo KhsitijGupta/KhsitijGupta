@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Kshitij Gupta</h1>
 
 <h3 align="center">
-  B.Tech CSE student &amp; MERN Stack Developer from Bhopal, building scalable web applications<br/>
+ MERN Stack Developer from Bhopal, building scalable web applications<br/>
   and constantly experimenting with modern JavaScript, React, and Node.js.
 </h3>
 
@@ -20,21 +20,13 @@
 
 <br/>
 
-<!-- ===== Badges & Trophies ===== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KhsitijGupta&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  &nbsp;&nbsp;
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KhsitijGupta&theme=algolia&no-frame=true&row=1&column=6" alt="trophies" />
-  </a>
-</p>
 
 <br/>
 
 ---
 
 <br/>
-
+<div style="display:flex; justify-content:center; gap:10px;">
 <!-- ===== About (inspired by portfolio hero) ===== -->
 <p align="right">
   <img alt="Coding illustration" width="340"
@@ -46,7 +38,7 @@
     Hello! &nbsp;•&nbsp; Software Engineer in the making
   </span>
 </p>
-
+</div>
 <br/>
 
 <ul>
