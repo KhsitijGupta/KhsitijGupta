@@ -47,23 +47,6 @@
   padding: 24px 18px;
 ">
 
-  <!-- LEFT: GIF card -->
-  <div style="
-    flex: 0 0 320px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 24px;
-    overflow: hidden;
-    background: linear-gradient(135deg, #0f172a, #020617);
-    box-shadow: 0 18px 45px rgba(15, 23, 42, 0.85);
-  ">
-    <img
-      src="https://raw.githubusercontent.com/KhsitijGupta/KhsitijGupta/refs/heads/main/asset/video2-ezgif.com-video-to-gif-converter.gif"
-      alt="Coding animation"
-      style="width: 100%; height: 100%; object-fit: cover;"
-    />
-  </div>
 
   <!-- RIGHT: Glassmorphism content card -->
   <div style="
@@ -71,7 +54,6 @@
     max-width: 620px;
     padding: 32px 28px 28px;
     border-radius: 24px;
-    border: 1px solid rgba(148, 163, 184, 0.2);
     background: linear-gradient(135deg, rgba(15, 23, 42, 0.95), rgba(2, 6, 23, 0.85));
     color: #e5e7eb;
     position: relative;
@@ -86,19 +68,18 @@
       background: linear-gradient(90deg, transparent, #fb923c, transparent);
     "></div>
 <!-- ================= HERO SECTION (GitHub SAFE) ================= -->
-<table align="center" width="100%" cellpadding="0" cellspacing="0">
+<table align="center" width="100%" cellpadding="0" cellspacing="0" >
   <tr>
     <!-- LEFT: GIF -->
-    <td width="340" align="center" valign="top" style="padding: 16px;">
+    <td width="440" align="center" valign="center" style="padding: 16px;">
       <img
         src="https://raw.githubusercontent.com/KhsitijGupta/KhsitijGupta/refs/heads/main/asset/video2-ezgif.com-video-to-gif-converter.gif"
         alt="Coding animation"
-        width="320"
+        width="450"
         style="border-radius: 16px;"
       />
     </td>
 
-    <!-- RIGHT: CONTENT -->
 <td align="left" valign="top" style="padding:16px;">
 
   <!-- Pill Badge -->
