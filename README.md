@@ -67,109 +67,53 @@
       height: 2px;
       background: linear-gradient(90deg, transparent, #fb923c, transparent);
     "></div>
-    
     <!-- Pill badge -->
-    <div style="
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      padding: 8px 16px;
-      border-radius: 50px;
-      border: 1px solid rgba(251, 146, 60, 0.3);
-      background: linear-gradient(135deg, rgba(251, 146, 60, 0.15), rgba(248, 113, 113, 0.08));
-      color: #fed7aa;
-      font-size: 12px;
-      font-weight: 500;
-      letter-spacing: 0.5px;
-      text-transform: uppercase;
-    ">
-      <span>Software Engineer</span>
-      <span style="width: 6px; height: 6px; border-radius: 50%; background: #fb923c;"></span>
-    </div>
+<div style="display: inline-flex; align-items: center; gap: 8px; padding: 8px 16px; border-radius: 50px; border: 1px solid rgba(251, 146, 60, 0.3); background: linear-gradient(135deg,rgba(251, 146, 60, 0.15), rgba(248, 113, 113, 0.08)); color: #fed7aa; font-size: 12px; font-weight: 500; letter-spacing: 0.5px; text-transform: uppercase;">
+  <span>Software Engineer</span>
+  <span style="width: 6px; height: 6px; border-radius: 50%; background: #fb923c;"></span>
+</div>
 
-    <!-- Heading -->
-    <h3 style="
-      margin: 24px 0 12px 0;
-      font-size: 28px;
-      font-weight: 700;
-      color: #f9fafb;
-      line-height: 1.3;
-    ">
-      Turning ideas into fast, reliable web experiences.
-    </h3>
-    
-    <p style="
-      margin: 0 0 24px 0;
-      font-size: 15px;
-      color: #d1d5db;
-      line-height: 1.7;
-      font-weight: 400;
-    ">
-      MERN stack developer passionate about crafting clean UIs, predictable APIs, and smooth user journeys from the first pixel to the last database write.
-    </p>
+<!-- Heading -->
+<h3 style="margin: 24px 0 12px 0; font-size: 28px; font-weight: 700; color: #f9fafb; line-height: 1.3;">
+  Turning ideas into fast, reliable web experiences.
+</h3>
 
-    <!-- Skills grid -->
-    <div style="
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 12px 20px;
-      font-size: 14px;
-      margin-bottom: 24px;
-    ">
-      <div style="margin: 0; display: flex; align-items: flex-start; gap: 8px;">
-        <span style="font-size: 16px; line-height: 1.2;">🚀</span>
-        <span style="font-weight: 500; color: #e5e7eb;">MERN stack, clean UI & responsive design</span>
-      </div>
-      <div style="margin: 0; display: flex; align-items: flex-start; gap: 8px;">
-        <span style="font-size: 16px; line-height: 1.2;">🛠️</span>
-        <span style="font-weight: 500; color: #e5e7eb;">Full-stack projects & dashboards</span>
-      </div>
-      <div style="margin: 0; display: flex; align-items: flex-start; gap: 8px;">
-        <span style="font-size: 16px; line-height: 1.2;">📚</span>
-        <span style="font-weight: 500; color: #e5e7eb;">Performance optimization & DX tooling</span>
-      </div>
-      <div style="margin: 0; display: flex; align-items: flex-start; gap: 8px;">
-        <span style="font-size: 16px; line-height: 1.2;">💬</span>
-        <span style="font-weight: 500; color: #e5e7eb;">React, Node.js, MongoDB expert</span>
-      </div>
-    </div>
+<p style="margin: 0 0 24px 0; font-size: 15px; color: #d1d5db; line-height: 1.7; font-weight: 400;">
+  MERN stack developer passionate about crafting clean UIs, predictable APIs, and smooth user journeys from the first pixel to the last database write.
+</p>
 
-    <!-- Status & Contact -->
-    <div style="
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      gap: 12px;
-      margin-top: 8px;
-      font-size: 13px;
-    ">
-      <span style="
-        padding: 8px 16px;
-        border-radius: 50px;
-        background: rgba(34, 197, 94, 0.15);
-        border: 1px solid rgba(34, 197, 94, 0.3);
-        color: #bbf7d0;
-        font-weight: 500;
-      ">
-        ⚡ Always building something new
-      </span>
+<!-- Skills grid -->
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px 20px; font-size: 14px; margin-bottom: 24px;">
+  <div style="margin: 0; display: flex; align-items: flex-start; gap: 8px;">
+    <span style="font-size: 16px; line-height: 1.2;">🚀</span>
+    <span style="font-weight: 500; color: #e5e7eb;">MERN stack, clean UI & responsive design</span>
+  </div>
+  <div style="margin: 0; display: flex; align-items: flex-start; gap: 8px;">
+    <span style="font-size: 16px; line-height: 1.2;">🛠️</span>
+    <span style="font-weight: 500; color: #e5e7eb;">Full-stack projects & dashboards</span>
+  </div>
+  <div style="margin: 0; display: flex; align-items: flex-start; gap: 8px;">
+    <span style="font-size: 16px; line-height: 1.2;">📚</span>
+    <span style="font-weight: 500; color: #e5e7eb;">Performance optimization & DX tooling</span>
+  </div>
+  <div style="margin: 0; display: flex; align-items: flex-start; gap: 8px;">
+    <span style="font-size: 16px; line-height: 1.2;">💬</span>
+    <span style="font-weight: 500; color: #e5e7eb;">React, Node.js, MongoDB expert</span>
+  </div>
+</div>
 
-      <!-- Pure HTML mail link (no markdown inside) -->
-      <a href="mailto:kshitijgupta2162@gmail.com" style="
-        display: inline-flex;
-        align-items: center;
-        gap: 6px;
-        padding: 8px 18px;
-        border-radius: 50px;
-        border: 1px solid rgba(59, 130, 246, 0.4);
-        color: #bfdbfe;
-        text-decoration: none;
-        background: linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(56, 189, 248, 0.1));
-        font-weight: 500;
-      ">
-        📫 kshitijgupta2162@gmail.com
-      </a>
-    </div>
+<!-- Status & Contact -->
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin-top: 8px; font-size: 13px;">
+  <span style="padding: 8px 16px; border-radius: 50px; background: rgba(34, 197, 94, 0.15); border: 1px solid rgba(34, 197, 94, 0.3); color: #bbf7d0; font-weight: 500;">
+    ⚡ Always building something new
+  </span>
+
+  <a href="mailto:kshitijgupta2162@gmail.com" 
+     style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 18px; border-radius: 50px; border: 1px solid rgba(59, 130, 246, 0.4); color: #bfdbfe; text-decoration: none; background: linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(56, 189, 248, 0.1)); font-weight: 500;">
+    📫 kshitijgupta2162@gmail.com
+  </a>
+</div>
+
   </div>
 </div>
 
