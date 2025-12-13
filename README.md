@@ -134,11 +134,60 @@
 <br/>
 
 ---
+---
 
-### GitHub Streak
+### GitHub Activity
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhsitijGupta&theme=dark" alt="kshitijgupta streak stats" />
+  <!-- Contribution graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KhsitijGupta&theme=react-dark&hide_border=true&area=true" 
+    alt="Kshitij Gupta contribution graph" 
+  />
+</p>
+
+<p align="center">
+  <!-- GitHub stats & languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=KhsitijGupta&show_icons=true&theme=dark&hide_border=true&count_private=true" 
+    alt="Kshitij Gupta GitHub stats" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhsitijGupta&layout=compact&theme=dark&hide_border=true" 
+    alt="Top languages" 
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <!-- Profile views badge (optional) -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=KhsitijGupta&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="Profile views counter" 
+  />
+</p>
+---
+
+### Recent Contributions
+
+<p align="center">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=KhsitijGupta&limit=6&theme=dark&combine_all_yearly_contributions=true" 
+    alt="Top repositories by contributions" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=KhsitijGupta&theme=dark" 
+    alt="Kshitij Gupta contribution streak" 
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/KhsitijGupta?tab=overview&from=2025-01-01&to=2025-12-31">
+    🔎 View full contribution activity
   </a>
 </p>
+
