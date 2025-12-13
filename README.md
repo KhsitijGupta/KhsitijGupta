@@ -149,56 +149,67 @@
 <br/>
 
 ---
-
 ### 🛠️ Languages & Tools
 
-<div align="center">
-  <p align="center">
-    <a href="https://reactjs.org/" target="_blank" rel="noopener">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noopener">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noopener">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noopener">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/>
-    </a>
-  </p>
-  
-  <p align="center">
-    <a href="https://tailwindcss.com/" target="_blank" rel="noopener">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noopener">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/>
-    </a>
-  </p>
-  
-  <p align="center">
-    <a href="https://firebase.google.com/" target="_blank" rel="noopener">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="48" height="48"/>
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noopener">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noopener">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="48" height="48"/>
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48" />
+  </a>
+  <!-- extra: Next.js -->
+  <a href="https://nextjs.org" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="48" height="48" />
+  </a>
+  <!-- extra: TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48" />
+  </a>
+  <!-- extra: Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://firebase.google.com/" target="_blank" rel="noopener">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="48" height="48" />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noopener">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noopener">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="48" height="48" />
+  </a>
+  <!-- extra: GitHub Actions -->
+  <a href="https://github.com/features/actions" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="48" height="48" />
+  </a>
+</p>
+--- 
 <br/>
-
----
 
 ### 📊 GitHub Activity
 
