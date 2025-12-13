@@ -1,4 +1,4 @@
-<!-- ===== Top Banner ===== -->
+<!-- ===== Top Banner (Portfolio style) ===== -->
 <p align="center">
   <img src="https://images.unsplash.com/photo-1526498460520-4c246339dccb?auto=format&fit=crop&w=1400&q=80"
        alt="Tech banner"
@@ -8,9 +8,10 @@
 <br/>
 
 <h1 align="center">Hi 👋, I'm Kshitij Gupta</h1>
+
 <h3 align="center">
-  A self‑driven developer building projects across the MERN stack, JavaScript, React, and Node.js.<br/>
-  From full‑stack web apps to tiny utility scripts — always shipping, always learning.
+  B.Tech CSE student &amp; MERN Stack Developer from Bhopal, building scalable web applications<br/>
+  and constantly experimenting with modern JavaScript, React, and Node.js.
 </h3>
 
 <br/>
@@ -34,17 +35,26 @@
 
 <br/>
 
-<!-- ===== About (with side image) ===== -->
+<!-- ===== About (inspired by portfolio hero) ===== -->
 <p align="right">
   <img alt="Coding illustration" width="340"
        src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=800&q=80">
 </p>
 
+<p>
+  <span style="display:inline-block;padding:6px 14px;border-radius:999px;border:1px solid #fb923c33;background:#fb923c1a;color:#fb923c;font-size:11px;letter-spacing:0.18em;text-transform:uppercase;">
+    Hello! &nbsp;•&nbsp; Software Engineer in the making
+  </span>
+</p>
+
+<br/>
+
 <ul>
-  <li>🌱 I’m currently exploring <b>MERN stack &amp; modern frontend</b></li>
-  <li>💻 I love building <b>full‑stack web apps &amp; experimental UIs</b></li>
-  <li>💬 Ask me about <b>JavaScript, React, Node.js, MongoDB</b></li>
-  <li>📫 How to reach me: <b>kshitijgupta2162@gmail.com</b></li>
+  <li>🚀 Focused on <b>MERN stack</b>, clean UI and responsive experiences.</li>
+  <li>🛠️ Enjoy turning ideas into <b>full‑stack projects</b> and experimental UIs.</li>
+  <li>📚 Always learning better patterns, performance tricks, and tooling.</li>
+  <li>💬 Ask me about <b>JavaScript, React, Node.js, MongoDB</b>.</li>
+  <li>📫 Reach me at <b>kshitijgupta2162@gmail.com</b>.</li>
   <li>⚡ Fun fact: <b>I get restless if there’s nothing new to build.</b></li>
 </ul>
 
@@ -58,11 +68,17 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/kshitij-gupta-648319259" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="30" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.leetcode.com/kshitij2162" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+         alt="LeetCode"
+         height="30" width="40" />
   </a>
 </p>
 
